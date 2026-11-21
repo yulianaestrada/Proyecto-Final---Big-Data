@@ -1,4 +1,4 @@
-# EDA y Pronóstico de Afluencia de Pasajeros del Metro (CDMX)
+# EDA y Pronóstico de Afluencia de Pasajeros del Metro de Medellín
 
 **Trabajo Final — Asignatura: Big Data**
 
